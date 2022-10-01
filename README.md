@@ -1,16 +1,13 @@
 ## 功能介绍 
 
- - 会议室预定小程序，解决空闲会议室难找，日程时间难协调等企业开会痛点，提升会议效率降低组织成本。
-- 可以查询某个时间段的空闲会议室，查询某个会议室的空闲时间段；
-- 会议室状态一目了然，完美解决会议时间冲突和空间浪费问题。
-- 前后端完整代码，包括选择会议室，修改会议日期、时间，以及备注进行会议创建。
-- 预约成功后，可以查看会议详情。后台功能包括：会议室创建，预定记录查询，生成单个会议室小程序码海报，发布公告，用户注册审核等。
+ - 会议室是一个单位或部门的共用资源,但在使用的时候往往会遇到时间冲突、预约困难、不方便协调等问题。目前大部分公司是统一在公司群聊中预约，每次预约时，都需要翻一下聊天记录，了解是否有人预定以及预定时间等。如果冲突则需要找到相关联系人进行沟通。查找历史预约记录麻烦。而现在员工人人都有微信，基于微信环境下的小程序，不用安装独立APP，访问方便。所以我们可以基于小程序，借助于会议室预约系统改善这种情况，实现会议室资源的最优使用。
 - 采用腾讯提供的小程序云开发解决方案，无须服务器和域名即可快速上线。
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193395448-3056a224-6666-4c12-b6b2-48d27c9b664f.png)
 
-![输入图片说明](demo/%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E5%AE%9A%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).jpeg)
+![image](https://user-images.githubusercontent.com/114723621/193395462-517ba327-6a14-451a-9b15-24f7a8b641fb.png)
 
+ 
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -18,18 +15,20 @@
 - 小程序本身的即用即走，适合小工具的使用场景，也适合快速开发迭代。
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
+![image](https://user-images.githubusercontent.com/114723621/193395466-38d4bcf4-ed47-4b5c-8247-c55ce14189d7.png)
 
 
 
 ## 作者
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
+ ![image](https://user-images.githubusercontent.com/114723621/193395468-6458d8ce-04b7-43f6-a07c-0216026381c0.png)
+
  
-![输入图片说明](demo/author-base.png)
 
 
 ## 演示 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/114723621/193395465-ec7e832e-cdbb-4ccc-9c01-e4ec6963d907.png)
 
 ## 安装
 
@@ -39,28 +38,32 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+![image](https://user-images.githubusercontent.com/114723621/193395472-48a55b8c-56a5-4c8f-bdd3-a38e7574f79f.png)
+![image](https://user-images.githubusercontent.com/114723621/193395473-5fe7a68d-55fa-4ebf-ad22-8a0aeb6f9010.png)
+![image](https://user-images.githubusercontent.com/114723621/193395477-c1ba1ce3-050a-4748-9171-66da41b897fc.png)
+![image](https://user-images.githubusercontent.com/114723621/193395479-6e0b6f16-05ce-4fc5-ab28-6ac3bff0f302.png)
+![image](https://user-images.githubusercontent.com/114723621/193395481-001619b9-b526-4b8b-afb4-1f053b7a1047.png)
 
-![输入图片说明](demo/2%E5%85%AC%E5%91%8A%E9%80%9A%E7%9F%A5.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193395482-fe5856cb-fb11-469a-8356-01ae3ffbc2d9.png)
+![image](https://user-images.githubusercontent.com/114723621/193395485-28e8a923-11e8-4b91-adb4-1b1dae14ea2a.png)
+![image](https://user-images.githubusercontent.com/114723621/193395487-2a040484-e1c4-4de5-b7e2-4034f8664c7a.png)
+![image](https://user-images.githubusercontent.com/114723621/193395491-215ecf28-7620-4ef6-bf0e-273fb5274f76.png)
+![image](https://user-images.githubusercontent.com/114723621/193395493-eca63363-7b21-45db-b106-ac30dcfe740e.png)
 
-![输入图片说明](demo/3%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
-
-![输入图片说明](demo/4%E5%8D%95%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
- ![输入图片说明](demo/5%E9%80%89%E6%8B%A9%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/6%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6%E6%B5%B7%E6%8A%A5.png)
-![输入图片说明](demo/7%E5%A1%AB%E5%86%99%E9%A2%84%E7%BA%A6%E8%B5%84%E6%96%99.png)
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/9%E4%BC%9A%E8%AE%AE%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/10%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/11%E6%88%91%E7%9A%84%E9%A2%84%E5%AE%9A.png)
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6%E8%AE%B0%E5%BD%95.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193395495-56f80039-c40c-4116-b63d-79fabb654a7e.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193395498-86fcaead-175e-47dc-8755-4bafa6420e79.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193395500-e5316d11-32c6-4c10-b8e4-4e058e4ef1b9.png)
+![image](https://user-images.githubusercontent.com/114723621/193395501-3d0f6c8c-d7ab-48c3-a9ed-800ba5479549.png)
+![image](https://user-images.githubusercontent.com/114723621/193395503-a74109c2-cec3-4b07-9631-bd5cea7c42da.png)
+![image](https://user-images.githubusercontent.com/114723621/193395507-dc3e39d1-b131-46b3-a747-554124f13f9c.png)
+![image](https://user-images.githubusercontent.com/114723621/193395504-c966bd1e-82cc-40a2-afc4-051465a0e70f.png)
 
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%AE%B0%E5%BD%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%80%9A%E7%9F%A5%E7%AE%A1%E7%90%86.png)
+ 
+ 
+ 
+ 
+ 
+
